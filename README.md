@@ -3,4 +3,4 @@ Teriyaki Chicken Recipe
 
 Made by Tanveer Singh
 
-Link: https://ethyx.github.io/PRO-C26/
+Link: https://github.com/IcyMan1234/pro-26
